@@ -2,3 +2,7 @@ body{
 background-color:maroon;
   font-family: arial, helvetica, san-serif;
 }
+h1{
+  color:ivory; 
+  text-align:center;
+}
