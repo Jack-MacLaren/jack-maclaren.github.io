@@ -12,7 +12,9 @@ h1{
   padding: 10px;
   display: flex;
 }
-
+.assign-details {
+  color: red; 
+}
 .assign img {
   max-width: 100%;
 }
