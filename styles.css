@@ -22,6 +22,7 @@ h2{
 }
 .assign img {
   max-width: 100%;
+  border: 2px solid maroon;
 }
 
 .assignment {
