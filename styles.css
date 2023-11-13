@@ -21,8 +21,8 @@ h2{
   background-color: black;
 }
 .assign img {
+    border: 2px solid maroon;
   max-width: 100%;
-  border: 2px solid maroon;
 }
 
 a {    text-decoration: none; 
