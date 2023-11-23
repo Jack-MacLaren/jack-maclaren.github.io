@@ -1,41 +1,41 @@
 body {
- background-color: #AFFF16;
+ background-color: maroon;
  font-family: Arial, Helvetica, sans-serif;
  display: flex;
  flex-wrap: wrap;
 }
 h1 {
- color: maroon;
+ color: ivory;
  text-align: center;
  width: 100%;
  display: block;
 }
 h1:hover {
- color: hotpink;
+ color: ivory;
  text-align: center;
  width: 100%;
  display: block;
 }
 a {
- text-decoration: none;
- color: black;
+
+ color: maroon;
 }
 .assign {
- background-color: grey;
+ background-color: charcoal;
  margin: 10px;
  padding: 10px;
  border-radius: 20px;
  width: 20%;
- box-shadow: 8px 8px brown;
+ box-shadow: 8px 8px ivory;
  display: block; /* instead of flex */
 }
 .assign img {
  width: 200px;
  margin: 10px;
- border: 2px solid midnightblue;
+ border: 2px solid ivory;
 }
 .assign img:hover {
  width: 200px;
  margin: 10px;
- border: 2px dotted yellow;
+ border: 2px dotted ivory;
 }
