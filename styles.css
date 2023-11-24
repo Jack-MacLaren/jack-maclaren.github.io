@@ -1,41 +1,38 @@
-body {
- background-color: maroon;
- font-family: Arial, Helvetica, sans-serif;
- display: flex;
- flex-wrap: wrap;
+body{
+background-color:maroon;
+  font-family: arial, helvetica, san-serif;
 }
-h1 {
- color: ivory;
- text-align: center;
- width: 100%;
- display: block;
+h1{
+  color:ivory; 
+  text-align:center;
 }
-h1:hover {
- color: ivory;
- text-align: center;
- width: 100%;
- display: block;
+h2{
+  color:ivory; 
+  text-align:center;
 }
-a {
-
- color: maroon;
+.assignment{
+  background-color: black;
+  margin: 10px;
+  padding: 10px;
+  display: flex;
+  border-radius: 20px;
 }
-.assign {
- background-color: charcoal;
- margin: 10px;
- padding: 10px;
- border-radius: 20px;
- width: 20%;
- box-shadow: 8px 8px ivory;
- display: block; /* instead of flex */
+.assign-details {
+  color: Ivory; 
+  background-color: black;
+  border-radius: 20px;
 }
 .assign img {
- width: 200px;
- margin: 10px;
- border: 2px solid ivory;
+    border: 10px solid black;
+  max-width: 100%;
 }
-.assign img:hover {
- width: 200px;
- margin: 10px;
- border: 2px dotted ivory;
+
+a {   
+    color: maroon;
+  text-decoration: none; 
+   
+  }
+
+.assignment {
+  background-color: charcoal; 
 }
