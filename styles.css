@@ -14,7 +14,7 @@ h1 {
 
 
 h2 {
-  color: ivory;
+  color: black;
   text-align: center;
   width: 100%;
   display: block;
@@ -34,7 +34,7 @@ a {
 }
 
 .assign {
-  background-color: blue;
+  background-color: ivory;
   margin: 10px;
   padding: 10px;
   border-radius: 20px;
